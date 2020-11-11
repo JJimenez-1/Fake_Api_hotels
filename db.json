@@ -1,5 +1,5 @@
-[
-    {
+    { 
+    "hoteles" : [{
         "id": 1,
         "name": "INNSIDE Palma Bosque",
         "persons": 2,
@@ -193,6 +193,5 @@
             "bar"
         ],
         "img": "https://x.cdrst.com/foto/hotel-sf/1b62d/granderesp/hotel-xinzo-exterior-9795d1a.jpg"
-    }
-
-]
+    }]
+}
