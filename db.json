@@ -59,6 +59,7 @@
             "air conditioner",
             "parking"
         ],
+        "oferta": true,
         "img": "https://lh3.googleusercontent.com/proxy/AO48OIJLNB7ojVjn_PaGVscbL9298k5k3zqdwHoQ_xttva4OSVSQs2ORqF55QF0Vse1AjdAefQIx_b68wyMZZ-bmIpZUP33xouzFW_oiyPotWgPUOh5bPyjqORaWSzh0M1fYtCVab1sc56gMYHxzM8J8MbedxkH3Sg"
     },
     {
@@ -77,6 +78,7 @@
             "parking",
             "air conditioner"
         ],
+        "oferta": false,
         "img": "https://ofertasfindeano.com/wp-content/uploads/2016/09/Amic-Horizonte-1.jpg"
     },
     {
@@ -97,6 +99,7 @@
             "spa",
             "bar"
         ],
+        "oferta": false,
         "img": "https://cf.bstatic.com/images/hotel/max1280x900/146/146937606.jpg"
     },
     {
@@ -115,6 +118,7 @@
             "air conditioner",
             "bar"
         ],
+        "oferta": true,
         "img": "https://cdn.atrapalo.com/hoteles/picture/l/22/4/1/206927166.jpg"
     },
     {
@@ -135,6 +139,7 @@
             "spa",
             "bar"
         ],
+        "oferta": false,
         "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/37/05/88/nh-collection-santiago.jpg?w=900&h=-1&s=1"
     },
     {
@@ -151,6 +156,7 @@
             "parking",
             "air conditioner"
         ],
+        "oferta": false,
         "img": "https://www.laregion.es/media/laregion/images/2016/12/01/2016120118342148615.jpg"
     },
     {
@@ -187,6 +193,7 @@
             "air conditioner",
             "bar"
         ],
+        "oferta": false,
         "img": "https://x.cdrst.com/foto/hotel-sf/1b62d/granderesp/hotel-xinzo-exterior-9795d1a.jpg"
     }]
 }
