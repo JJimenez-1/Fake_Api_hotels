@@ -8,7 +8,6 @@
         "rating": 8.5,
         "location": "Mallorca",
         "comentary": "",
-        "breakfast": true,
         "filters": [
             "breakfast",
             "restaurant",
@@ -19,6 +18,7 @@
             "parking"
         ],
         "oferta": true,
+        "recomendado": true,
         "img": "https://www.melia.com/dam/jcr:37731bbf-d336-45df-9b27-157cc2e0e1af/005InnsidePalmaBosque-Facade_In_Pool_Night_(2).jpg"
     },
     {
@@ -30,7 +30,6 @@
         "rating": 8.7,
         "location": "Mallorca",
         "comentary": "",
-        "breakfast": true,
         "filters": [
             "restaurant",
             "gym",
@@ -41,6 +40,7 @@
             "spa"
         ],
         "oferta": false,
+        "recomendado": false,
         "img": "https://media-cdn.tripadvisor.com/media/photo-s/0a/c6/d6/c4/gpro-valparaiso-palace.jpg"
     },
     {
@@ -60,6 +60,7 @@
             "parking"
         ],
         "oferta": true,
+        "recomendado": false,
         "img": "https://lh3.googleusercontent.com/proxy/AO48OIJLNB7ojVjn_PaGVscbL9298k5k3zqdwHoQ_xttva4OSVSQs2ORqF55QF0Vse1AjdAefQIx_b68wyMZZ-bmIpZUP33xouzFW_oiyPotWgPUOh5bPyjqORaWSzh0M1fYtCVab1sc56gMYHxzM8J8MbedxkH3Sg"
     },
     {
@@ -79,6 +80,7 @@
             "air conditioner"
         ],
         "oferta": false,
+        "recomendado": false,
         "img": "https://ofertasfindeano.com/wp-content/uploads/2016/09/Amic-Horizonte-1.jpg"
     },
     {
@@ -100,6 +102,7 @@
             "bar"
         ],
         "oferta": false,
+        "recomendado": true,
         "img": "https://cf.bstatic.com/images/hotel/max1280x900/146/146937606.jpg"
     },
     {
@@ -119,6 +122,7 @@
             "bar"
         ],
         "oferta": true,
+        "recomendado": false,
         "img": "https://cdn.atrapalo.com/hoteles/picture/l/22/4/1/206927166.jpg"
     },
     {
@@ -140,6 +144,7 @@
             "bar"
         ],
         "oferta": false,
+        "recomendado": true,
         "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/37/05/88/nh-collection-santiago.jpg?w=900&h=-1&s=1"
     },
     {
@@ -157,6 +162,7 @@
             "air conditioner"
         ],
         "oferta": false,
+        "recomendado": false,
         "img": "https://www.laregion.es/media/laregion/images/2016/12/01/2016120118342148615.jpg"
     },
     {
@@ -175,6 +181,7 @@
             "bar"
         ],
         "oferta": true,
+        "recomendado": false,
         "img": "https://x.cdrst.com/foto/hotel-sf/59815/granderesp/capitol-boutique-hotel-general-9733a16.jpg"
     },
     {
@@ -194,6 +201,7 @@
             "bar"
         ],
         "oferta": false,
+        "recomendado": true,
         "img": "https://x.cdrst.com/foto/hotel-sf/1b62d/granderesp/hotel-xinzo-exterior-9795d1a.jpg"
     }]
 }
