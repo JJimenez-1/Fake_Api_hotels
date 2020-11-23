@@ -8,15 +8,17 @@
         "rating": 8.5,
         "location": "Mallorca",
         "comentary": "",
-        "filters": [
-            "breakfast",
-            "restaurant",
-            "gym",
-            "wifi",
-            "air conditioner",
-            "pool",
-            "parking"
-        ],
+        "filters": {
+            "restaurant": true,
+            "wifi": true,
+            "pool": true,
+            "parking": true,
+            "air conditioner": true,
+            "spa": false,
+            "bar": false,
+            "gym": true,
+            "breakfast": true
+        },
         "oferta": true,
         "recomendado": true,
         "img": "https://www.melia.com/dam/jcr:37731bbf-d336-45df-9b27-157cc2e0e1af/005InnsidePalmaBosque-Facade_In_Pool_Night_(2).jpg"
@@ -30,15 +32,17 @@
         "rating": 8.7,
         "location": "Mallorca",
         "comentary": "",
-        "filters": [
-            "restaurant",
-            "gym",
-            "wifi",
-            "air conditioner",
-            "pool",
-            "parking",
-            "spa"
-        ],
+        "filters": {
+            "restaurant": true,
+            "wifi": true,
+            "pool": true,
+            "parking": true,
+            "air conditioner": true,
+            "spa": true,
+            "bar": false,
+            "gym": true,
+            "breakfast": true
+        },
         "oferta": false,
         "recomendado": false,
         "img": "https://media-cdn.tripadvisor.com/media/photo-s/0a/c6/d6/c4/gpro-valparaiso-palace.jpg"
@@ -46,19 +50,23 @@
     {
         "id": 3,
         "name": "Abelay",
-        "persons": 2,
+        "persons": 4,
         "price": 69,
         "stars": 2,
         "rating": 7.3,
         "location": "Mallorca",
         "comentary": "",
-        "filters": [
-            "restaurant",
-            "gym",
-            "wifi",
-            "air conditioner",
-            "parking"
-        ],
+        "filters": {
+            "restaurant": true,
+            "wifi": true,
+            "pool": false,
+            "parking": true,
+            "air conditioner": false,
+            "spa": false,
+            "bar": false,
+            "gym": true,
+            "breakfast": true
+        },
         "oferta": true,
         "recomendado": false,
         "img": "https://lh3.googleusercontent.com/proxy/AO48OIJLNB7ojVjn_PaGVscbL9298k5k3zqdwHoQ_xttva4OSVSQs2ORqF55QF0Vse1AjdAefQIx_b68wyMZZ-bmIpZUP33xouzFW_oiyPotWgPUOh5bPyjqORaWSzh0M1fYtCVab1sc56gMYHxzM8J8MbedxkH3Sg"
@@ -66,19 +74,22 @@
     {
         "id": 4,
         "name": "Amic Horizonte",
-        "persons": 2,
+        "persons": 5,
         "price": 45,
         "stars": 3,
         "rating": 7.0,
         "location": "Mallorca",
         "comentary": "",
-        "filters": [
-            "restaurant",
-            "wifi",
-            "pool",
-            "parking",
-            "air conditioner"
-        ],
+        "filters": {
+            "restaurant": true,
+            "wifi": true,
+            "pool": true,
+            "parking": true,
+            "air conditioner": true,
+            "spa": false,
+            "bar": false,
+            "breakfast": true
+        },
         "oferta": false,
         "recomendado": false,
         "img": "https://ofertasfindeano.com/wp-content/uploads/2016/09/Amic-Horizonte-1.jpg"
@@ -92,15 +103,17 @@
         "rating": 9.5,
         "location": "Mallorca",
         "comentary": "",
-        "filters": [
-            "restaurant",
-            "wifi",
-            "pool",
-            "parking",
-            "air conditioner",
-            "spa",
-            "bar"
-        ],
+        "filters": {
+            "restaurant": true,
+            "wifi": true,
+            "pool": true,
+            "parking": true,
+            "air conditioner": true,
+            "spa": true,
+            "bar": true,
+            "breakfast": true
+
+        },
         "oferta": false,
         "recomendado": true,
         "img": "https://cf.bstatic.com/images/hotel/max1280x900/146/146937606.jpg"
@@ -108,19 +121,23 @@
     {
         "id": 6,
         "name": "Hotel Meliá María Pita",
-        "persons": 2,
+        "persons": 4,
         "price": 57,
         "stars": 4,
         "rating": 8.3,
         "location": "Galicia",
         "comentary": "",
-        "filters": [
-            "restaurant",
-            "wifi",
-            "parking",
-            "air conditioner",
-            "bar"
-        ],
+        "filters": {
+            "restaurant": true,
+            "wifi": true,
+            "pool": false,
+            "parking": true,
+            "air conditioner": true,
+            "spa": false,
+            "bar": false,
+            "gym": false,
+            "breakfast": true
+        },
         "oferta": true,
         "recomendado": false,
         "img": "https://cdn.atrapalo.com/hoteles/picture/l/22/4/1/206927166.jpg"
@@ -128,21 +145,23 @@
     {
         "id": 7,
         "name": "Hotel NH Collection Santiago de Compostela",
-        "persons": 2,
+        "persons": 6,
         "price": 168,
         "stars": 5,
         "rating": 9.5,
         "location": "Galicia",
         "comentary": "",
-        "filters": [
-            "restaurant",
-            "wifi",
-            "pool",
-            "parking",
-            "air conditioner",
-            "spa",
-            "bar"
-        ],
+        "filters": {
+            "restaurant": true,
+            "wifi": true,
+            "pool": true,
+            "parking": true,
+            "air conditioner": true,
+            "spa": true,
+            "bar": true,
+            "gym": true,
+            "breakfast": true
+        },
         "oferta": false,
         "recomendado": true,
         "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/37/05/88/nh-collection-santiago.jpg?w=900&h=-1&s=1"
@@ -150,17 +169,23 @@
     {
         "id": 8,
         "name": "Barceló Ourense",
-        "persons": 2,
+        "persons": 3,
         "price": 63,
         "stars": 4,
         "rating": 8.9,
         "location": "Galicia",
         "comentary": "",
-        "filters": [
-            "wifi",
-            "parking",
-            "air conditioner"
-        ],
+        "filters": {
+            "restaurant": false,
+            "wifi": true,
+            "pool": false,
+            "parking": true,
+            "air conditioner": true,
+            "spa": false,
+            "bar": false,
+            "gym": false,
+            "breakfast": true
+        },
         "oferta": false,
         "recomendado": false,
         "img": "https://www.laregion.es/media/laregion/images/2016/12/01/2016120118342148615.jpg"
@@ -174,12 +199,17 @@
         "rating": 8.5,
         "location": "Galicia",
         "comentary": "",
-        "filters": [
-            "wifi",
-            "parking",
-            "air conditioner",
-            "bar"
-        ],
+        "filters": {
+            "restaurant": false,
+            "wifi": true,
+            "pool": false,
+            "parking": true,
+            "air conditioner": true,
+            "spa": false,
+            "bar": true,
+            "gym": false,
+            "breakfast": true
+        },
         "oferta": true,
         "recomendado": false,
         "img": "https://x.cdrst.com/foto/hotel-sf/59815/granderesp/capitol-boutique-hotel-general-9733a16.jpg"
@@ -193,13 +223,17 @@
         "rating": 7.8,
         "location": "Galicia",
         "comentary": "",
-        "filters": [
-            "restaurant",
-            "wifi",
-            "parking",
-            "air conditioner",
-            "bar"
-        ],
+        "filters": {
+            "restaurant": true,
+            "wifi": true,
+            "pool": false,
+            "parking": true,
+            "air conditioner": true,
+            "spa": false,
+            "bar": true,
+            "gym": false,
+            "breakfast": true
+        },
         "oferta": false,
         "recomendado": true,
         "img": "https://x.cdrst.com/foto/hotel-sf/1b62d/granderesp/hotel-xinzo-exterior-9795d1a.jpg"
