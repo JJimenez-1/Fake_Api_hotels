@@ -8,6 +8,15 @@
         "rating": 8.5,
         "location": "Mallorca",
         "comentary": "",
+        "services": [
+            "restaurant",
+            "wifi",
+            "parking",
+            "air conditioner",
+            "gym",
+            "pool",
+            "breakfast"
+        ],
         "filters": {
             "restaurant": true,
             "wifi": true,
@@ -32,6 +41,16 @@
         "rating": 8.7,
         "location": "Mallorca",
         "comentary": "",
+        "services": [
+            "restaurant",
+            "wifi",
+            "parking",
+            "air conditioner",
+            "gym",
+            "pool",
+            "breakfast",
+            "spa"
+        ],
         "filters": {
             "restaurant": true,
             "wifi": true,
@@ -56,6 +75,13 @@
         "rating": 7.3,
         "location": "Mallorca",
         "comentary": "",
+        "services": [
+            "restaurant",
+            "wifi",
+            "parking",
+            "gym",
+            "breakfast"
+        ],
         "filters": {
             "restaurant": true,
             "wifi": true,
@@ -80,6 +106,15 @@
         "rating": 7.0,
         "location": "Mallorca",
         "comentary": "",
+        "services": [
+            "restaurant",
+            "wifi",
+            "parking",
+            "air conditioner",
+            "gym",
+            "pool",
+            "breakfast"
+        ],
         "filters": {
             "restaurant": true,
             "wifi": true,
@@ -88,6 +123,7 @@
             "air conditioner": true,
             "spa": false,
             "bar": false,
+            "gym": true,
             "breakfast": true
         },
         "oferta": false,
@@ -103,6 +139,17 @@
         "rating": 9.5,
         "location": "Mallorca",
         "comentary": "",
+        "services": [
+            "restaurant",
+            "wifi",
+            "parking",
+            "air conditioner",
+            "gym",
+            "pool",
+            "bar",
+            "breakfast",
+            "spa"
+        ],
         "filters": {
             "restaurant": true,
             "wifi": true,
@@ -111,8 +158,8 @@
             "air conditioner": true,
             "spa": true,
             "bar": true,
-            "breakfast": true
-
+            "breakfast": true,
+            "gym": true
         },
         "oferta": false,
         "recomendado": true,
@@ -127,6 +174,13 @@
         "rating": 8.3,
         "location": "Galicia",
         "comentary": "",
+        "services": [
+            "restaurant",
+            "wifi",
+            "parking",
+            "air conditioner",
+            "breakfast"
+        ],
         "filters": {
             "restaurant": true,
             "wifi": true,
@@ -151,6 +205,17 @@
         "rating": 9.5,
         "location": "Galicia",
         "comentary": "",
+        "services": [
+            "restaurant",
+            "wifi",
+            "parking",
+            "air conditioner",
+            "gym",
+            "pool",
+            "bar",
+            "breakfast",
+            "spa"
+        ],
         "filters": {
             "restaurant": true,
             "wifi": true,
@@ -175,6 +240,13 @@
         "rating": 8.9,
         "location": "Galicia",
         "comentary": "",
+        "services": [
+            "restaurant",
+            "wifi",
+            "parking",
+            "air conditioner",
+            "breakfast"
+        ],
         "filters": {
             "restaurant": false,
             "wifi": true,
@@ -199,6 +271,13 @@
         "rating": 8.5,
         "location": "Galicia",
         "comentary": "",
+        "services": [
+            "wifi",
+            "parking",
+            "air conditioner",
+            "bar",
+            "breakfast"
+        ],
         "filters": {
             "restaurant": false,
             "wifi": true,
@@ -223,6 +302,14 @@
         "rating": 7.8,
         "location": "Galicia",
         "comentary": "",
+        "services": [
+            "restaurant",
+            "wifi",
+            "parking",
+            "air conditioner",
+            "bar",
+            "breakfast"
+        ],
         "filters": {
             "restaurant": true,
             "wifi": true,
