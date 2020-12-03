@@ -1,4 +1,11 @@
     { 
+    "usuario" : [{
+        "id": 1,
+        "name": "José",
+        "surnames": "Jiménez Beltrán",
+        "email": "prueba@gmail.com",
+        "img": "https://www.flaticon.es/svg/static/icons/svg/1361/1361728.svg"
+    }],
     "hoteles" : [{
         "id": 1,
         "name": "INNSIDE Palma Bosque",
@@ -8,6 +15,8 @@
         "rating": 8.5,
         "location": "Mallorca",
         "comentary": "",
+        "lat": 39.56691504622483, 
+        "lng": 2.6259714557131595,
         "services": [
             "restaurant",
             "wifi",
@@ -41,6 +50,8 @@
         "rating": 8.7,
         "location": "Mallorca",
         "comentary": "",
+        "lat": 39.555737563510725,
+        "lng": 2.6194336692029796,
         "services": [
             "restaurant",
             "wifi",
@@ -75,6 +86,8 @@
         "rating": 7.3,
         "location": "Mallorca",
         "comentary": "",
+        "lat": 39.58287838596287, 
+        "lng": 2.6549075692037736,
         "services": [
             "restaurant",
             "wifi",
@@ -106,6 +119,8 @@
         "rating": 7.0,
         "location": "Mallorca",
         "comentary": "",
+        "lat": 39.555929391042476,  
+        "lng": 2.6216264557128475,
         "services": [
             "restaurant",
             "wifi",
@@ -139,6 +154,8 @@
         "rating": 9.5,
         "location": "Mallorca",
         "comentary": "",
+        "lat": 39.56921818017396,   
+        "lng": 2.652678071060803,
         "services": [
             "restaurant",
             "wifi",
@@ -174,6 +191,8 @@
         "rating": 8.3,
         "location": "Galicia",
         "comentary": "",
+        "lat": 43.37560065119445,   
+        "lng": -8.402761715329996,
         "services": [
             "restaurant",
             "wifi",
@@ -205,6 +224,8 @@
         "rating": 9.5,
         "location": "Galicia",
         "comentary": "",
+        "lat": 42.88973467416019,  
+        "lng": -8.543313386510711,
         "services": [
             "restaurant",
             "wifi",
@@ -240,6 +261,8 @@
         "rating": 8.9,
         "location": "Galicia",
         "comentary": "",
+        "lat": 42.342332390728416,   
+        "lng": -7.864267488384447,
         "services": [
             "restaurant",
             "wifi",
@@ -271,6 +294,8 @@
         "rating": 8.5,
         "location": "Galicia",
         "comentary": "",
+        "lat": 42.876834261208884,  
+        "lng": -8.543256273020974 ,
         "services": [
             "wifi",
             "parking",
@@ -302,6 +327,8 @@
         "rating": 7.8,
         "location": "Galicia",
         "comentary": "",
+        "lat": 42.06067735786035,   
+        "lng": -7.7264047307201,
         "services": [
             "restaurant",
             "wifi",
